@@ -1,0 +1,15 @@
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\bin\Debug\net9.0\DesafioFundamentos(Felipe).exe
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\bin\Debug\net9.0\DesafioFundamentos(Felipe).deps.json
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\bin\Debug\net9.0\DesafioFundamentos(Felipe).runtimeconfig.json
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\bin\Debug\net9.0\DesafioFundamentos(Felipe).dll
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\bin\Debug\net9.0\DesafioFundamentos(Felipe).pdb
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).AssemblyInfoInputs.cache
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).AssemblyInfo.cs
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).csproj.CoreCompileInputs.cache
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).sourcelink.json
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).dll
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\refint\DesafioFundamentos(Felipe).dll
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).pdb
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\DesafioFundamentos(Felipe).genruntimeconfig.cache
+E:\Programação\Desafios C# Github\trilha-net-fundamentos-desafio\DesafioFundamentos(Felipe)\obj\Debug\net9.0\ref\DesafioFundamentos(Felipe).dll
